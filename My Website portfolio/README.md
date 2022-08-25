@@ -15,3 +15,4 @@ As a Student I want to build a portfolio that Contian a small story about me, my
 •It is done when I have different color in each section 
 •It is done when I have  Text box and send button
 •It is done when I have input box for name and email 
+'\n' thair
